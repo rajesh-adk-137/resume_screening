@@ -50,7 +50,7 @@ ResuMatch is an advanced automated resume screening system that leverages artifi
 
 ```bash
 git clone https://github.com/rajesh-adk-137/resume_screening.git
-cd ResuMatch
+cd resume_screening
 ```
 
 ### Step 2: Frontend Setup
